@@ -18,9 +18,11 @@
 -  Create a cluster by selecting the free tier and your preferred cloud provider and region.
 
 - [x] Create a Database User:
+
 - Go to "Database Access" and add a new database user with a username and password.
 
 - [x] Whitelist Your IP Address:
+
 - Go to "Network Access" and add your current IP address.
 - Connect to Your Cluster:
 - Go to "Clusters", click "Connect", and select "Connect Your Application".
